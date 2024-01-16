@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FV-bhoy&psig=AOvVaw1Ak1onEYxzTglSby4PuzHh&ust=1705483334209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICn59TK4YMDFQAAAAAdAAAAABAD)](https://aryanvar.io)
+[![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://aryanvar.io)
 
 <h1 align="center">Hi 👋, I'm Aryan Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codsoft.in%2Fweb-development&psig=AOvVaw2EH2bhNd5iE8TdNaysdPT9&ust=1705483474182000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiX65nL4YMDFQAAAAAdAAAAABAI">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bsvaeoj921o5gs4hs6t3rudg4wdn1wrlszr9s5e9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanvar&label=Profile%20views&color=0e75b6&style=flat" alt="aryanvar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanvar" alt="aryanvar" /></a> </p>
