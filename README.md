@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryanvar](https://github.com/aryanvar)
+- 👨‍💻 All of my projects are available at [https://aryandev.co](https://aryandev.co)
 
 - 💬 Ask me about **ReactJs, Angular Js ,Ionic Framework**
 
